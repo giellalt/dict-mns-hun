@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="mns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="INTERJ">а</l>
+
+      <stg>
+        <st Contlex="INTERJ">а</st>
+      </stg>
+    </lg>
+
+    <mg>
+    <defNative/>
+      <tg xml:lang="rus">
+        <t pos="INTERJ">а</t>
+      </tg>
+      <tg xml:lang="hun">
+        <t pos="INTERJ">á</t>
+      </tg>
+      <tg xml:lang="eng">
+        <t pos="INTERJ"></t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="INTERJ">анана</l>
+
+      <stg>
+        <st Contlex="INTERJ">анана</st>
+      </stg>
+    </lg>
+
+    <mg>
+    <defNative/>
+      <tg xml:lang="rus">
+        <t pos="INTERJ">ай</t>
+      </tg>
+      <tg xml:lang="hun">
+        <t pos="INTERJ">ó</t>
+      </tg>
+      <tg xml:lang="eng">
+        <t pos="INTERJ"></t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="INTERJ">ах</l>
+
+      <stg>
+        <st Contlex="INTERJ">ах</st>
+      </stg>
+    </lg>
+
+    <mg>
+    <defNative/>
+      <tg xml:lang="rus">
+        <t pos="INTERJ">ах</t>
+      </tg>
+      <tg xml:lang="hun">
+        <t pos="INTERJ">ó</t>
+        <t pos="INTERJ">jaj</t>
+      </tg>
+      <tg xml:lang="eng">
+        <t pos="INTERJ"></t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="INTERJ">анана</l>
+
+      <stg>
+        <st Contlex="INTERJ">анана</st>
+      </stg>
+    </lg>
+
+    <mg>
+    <defNative/>
+      <tg xml:lang="rus">
+        <t pos="INTERJ">ах</t>
+      </tg>
+      <tg xml:lang="hun">
+        <t pos="INTERJ">ó</t>
+        <t pos="INTERJ">jaj</t>
+      </tg>
+      <tg xml:lang="eng">
+        <t pos="INTERJ"></t>
+      </tg>
+    </mg>
+  </e>
+</r>
